@@ -1,3 +1,35 @@
 *, body {
     font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#logotipo {
+    position: absolute;
+    width: 80px;
+    margin-top: -75px;
+    z-index: 1;
+}
+.title-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title-header > h1 {
+    margin-top: 2dvh;
+    color: #014585;
+    font-weight: bolder;
+}
+.horizontal-line-rectangle{
+    background-color: #014585;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100dvw;
+    height: 20px;
+}
+
+.banner > img{
+    width: 100dvw;
+}
+::-webkit-scrollbar{
+    display: none;
 }
