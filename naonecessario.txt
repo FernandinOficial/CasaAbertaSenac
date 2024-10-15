@@ -1,0 +1,46 @@
+ <div id="tabelaexemplo">
+        <table border="1">
+          <tr>
+            <th>Senac</th>
+            <th>Casa</th>
+            <th>Aberta</th>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+        </table>
+      </div>
+ 
+ 
+ 
+ <table border="1">
+        <tr>
+            <td><img src="img/logotipo-senac.svg" alt="Imagem 1"></a></td>
+            <td><img src="img/logotipo-senac.svg" alt="Imagem 2"></a></td>
+            <td><img src="img/logotipo-senac.svg" alt="Imagem 3"></a></td>
+        </tr>
+        <tr>
+            <td><img src="img/logotipo-senac.svg" alt="Imagem 4"></a></td>
+            <td><img src="img/logotipo-senac.svg" alt="Imagem 5"></a></td>
+            <td><img src="img/logotipo-senac.svg" alt="Imagem 6"></a></td>
+        </tr>
+        <tr>
+            <td><img src="img/logotipo-senac.svg" alt="Imagem 7"></a></td>
+            <td><img src="img/logotipo-senac.svg" alt="Imagem 8"></a></td>
+            <td><img src="img/logotipo-senac.svg" alt="Imagem 9"></a></td>
+        </tr>
+    </table>
+
+
