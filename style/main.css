@@ -46,3 +46,19 @@
 #tabelaexemplo th {
     background-color: #ffffff;
 }
+button{
+    cursor: pointer;
+    background-color: #d66800;
+    margin-left: 20px;
+    color: #ffffff;
+    padding: 10px;
+    font-size: 20px;
+    box-shadow: #000 3px 3px;
+}
+button:hover{
+    transition: 300ms;
+    background-color: #af5501;
+    margin-top: 3px;
+    margin-left: 23px;
+    box-shadow: none;
+}
